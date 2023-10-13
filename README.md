@@ -16,4 +16,4 @@
   - Software
 
 ![Riyane's Github stats](https://github-readme-stats-riyane3326s-projects.vercel.app/api?username=Riyane3326&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats-riyane3326s-projects.vercel.app/api/top-langs/?username=Riyane3326&langs_count=12&theme=dark&hide_progress=true)
+![Top Langs](https://github-readme-stats-riyane3326s-projects.vercel.app/api/top-langs/?username=Riyane3326&langs_count=12&theme=dark)

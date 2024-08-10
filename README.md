@@ -3,11 +3,9 @@
 ```Hello, my name is Riyane, I am currently 20 years old.```
 
 - 🔭 I’m currently working on school and my own projects
-- 🌱 I’m currently learning for 
-- 👯 I collaborate with Outerline (FiveM Project)
 - 😄 Pronouns: Purpose
 - 📫 How to reach me: 
-  - 🤖 Discord: r_smss.
+  - 🤖 Discord: purpose.dev
   - 📧 Mail: riyane.dev@gmail.com
 - 💬 Ask me about:
   - Java and JVM

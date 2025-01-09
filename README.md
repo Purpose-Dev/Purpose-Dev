@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-I'm **Riyane (Purpose)**, a passionate developer currently 21 years old.
+I'm **Riyane (Purpose)**, a 21-year-old developer passionate about building innovative software solutions. I thrive on creating robust, scalable cloud architectures that seamlessly meet user needs. Currently, I'm focused on building a suite of interconnected platforms in the crypto space.
 
-- 🔭 I’m actively working on personal projects and continuing my studies.
+- 🔭 I'm currently working on:
+  * **UniversalCube:** A social network connecting crypto enthusiasts, fostering discussion, and showcasing exciting new projects. UniversalCube is also the driving force behind innovative platforms like Gumzy and Trenchez.
+  * **Gumzy:**  Imagine a virtual world where you can own land, build your dream properties. That's Gumzy!  This innovative metaverse lets you buy, rent, and sell virtual real estate using cryptocurrencies. Developed by UniversalCube.
+  * **Trenchez:** Discover the hottest new cryptocurrencies and NFTs on Trenchez.  Watch live streams, connect with experts, and stay ahead of the curve. Developed by UniversalCube.
 - 😄 Pronouns: He/Him
-- 📫 Feel free to reach out to me:
+- 📫 Feel free to contact me :
   - 🤖 **Discord**: purpose.dev
   - 📧 **Email**: riyane.dev@gmail.com
 
@@ -23,28 +26,30 @@ I'm **Riyane (Purpose)**, a passionate developer currently 21 years old.
 ### 🛠️ **My Tech Stack & Tools**:
 
 - **Programming Languages** (Proficient in):
-  - `Java`, `Scala`, `Kotlin`, `Groovy`, `Clojure`, `Go`
+  * Java, Scala, Kotlin, Groovy, Clojure, Go
   
-- **Frameworks & Tools**:
-  - `Spring Boot`, `Spring Framework`, `Quarkus`, `Micronaut`, `Akka`, `Docker`, `Kubernetes`, `Helm`, `Terraform`
+- **Backend:**
+  * Frameworks: Spring Boot, Spring Framework, Quarkus, Micronaut, Akka
+  * Databases: Cassandra, MySQL, PostgreSQL, MongoDB, Redis, Neo4j
+  * Messaging: Kafka, RabbitMQ, ActiveMQ
+  * Caching: Memcached
   
-- **Cloud Platforms**:
-  - `AWS`, `GCP`, `Azure`
+- **Cloud & DevOps:**
+  * Plateformes : AWS, GCP, Azure
+  * Outils : Docker, Kubernetes, Helm, Terraform
   
-- **Databases**:
-  - `Cassandra`, `MySQL`, `PostgreSQL`, `MongoDB`, `Redis`, `Neo4j`
+- **Big Data & Data Engineering:**
+  * **Hadoop Ecosystem**:  Hadoop `(HDFS, MapReduce & Yarn)`, Apache Hive, HBase
+  * **Data Warehousing**: Google BigQuery, Amazon Redshift
+  * **Data Processing**: Apache Flink, Apache Spark, Apache Nifi, Databricks
+  * **Monitoring & Logging**: ELK
+  * **Stream Processing**: Apache Storm, Apache Flink
+  * **Coordination**: Zookeeper
   
-- **Messaging & Streaming**:
-  - `Kafka`, `RabbitMQ`
-  
-- **Big Data & Storage**:
-  - `MinIO`, `S3`, `Hadoop` (HDFS, MapReduce & Yarn), `Apache Spark`, `Elasticsearch`, `Apache Flink`
-  
-- **Data Serialization & Communication**:
-  - `Avro`, `gRPC`, `REST` (API design & integration), `Protobuf`
-  
-- **Version Control**:
-  - `Git`, `GitHub`, `Mercurial`, `SVN`
+- **Others**:
+  * Serialisation : Avro, Protobuf
+  * Communication : gRPC, REST (API design & integration)
+  * Contrôle de version : Git, GitHub, Mercurial, SVN
 
 ---
 

@@ -29,17 +29,17 @@ I'm **Riyane (Purpose)**, a 21-year-old developer passionate about building inno
   * Java, Scala, Kotlin, Groovy, Clojure, Go
   
 - **Backend:**
-  * Frameworks: Spring Boot, Spring Framework, Quarkus, Micronaut, Akka
-  * Databases: Cassandra, MySQL, PostgreSQL, MongoDB, Redis, Neo4j
-  * Messaging: Kafka, RabbitMQ, ActiveMQ
-  * Caching: Memcached
+  * **Frameworks**: Spring Boot, Spring Framework, Quarkus, Micronaut, Akka
+  * **Databases**: Cassandra, MySQL, PostgreSQL, MongoDB, Redis, Neo4j
+  * **Messaging**: Kafka, RabbitMQ, ActiveMQ
+  * **Caching**: Memcached
   
 - **Cloud & DevOps:**
-  * Plateformes : AWS, GCP, Azure
-  * Outils : Docker, Kubernetes, Helm, Terraform
+  * **Plateformes**: AWS, GCP, Azure
+  * **Outils**: Docker, Kubernetes, Helm, Terraform
   
 - **Big Data & Data Engineering:**
-  * **Hadoop Ecosystem**:  Hadoop `(HDFS, MapReduce & Yarn)`, Apache Hive, HBase
+  * **Hadoop Ecosystem**:  HDFS, MapReduce & Yarn, Apache Hive, HBase
   * **Data Warehousing**: Google BigQuery, Amazon Redshift
   * **Data Processing**: Apache Flink, Apache Spark, Apache Nifi, Databricks
   * **Monitoring & Logging**: ELK
@@ -47,9 +47,9 @@ I'm **Riyane (Purpose)**, a 21-year-old developer passionate about building inno
   * **Coordination**: Zookeeper
   
 - **Others**:
-  * Serialisation : Avro, Protobuf
-  * Communication : gRPC, REST (API design & integration)
-  * Contrôle de version : Git, GitHub, Mercurial, SVN
+  * **Serialisation**: Avro, Protobuf
+  * **Communication**: gRPC, REST (API design & integration), GraphQL
+  * **Version Control**: Git, Mercurial, SVN, Github, Gitlab, Atlassian 
 
 ---
 

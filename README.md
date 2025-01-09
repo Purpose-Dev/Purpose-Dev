@@ -35,8 +35,8 @@ I'm **Riyane (Purpose)**, a 21-year-old developer passionate about building inno
   * **Caching**: Memcached
   
 - **Cloud & DevOps:**
-  * **Plateformes**: AWS, GCP, Azure
-  * **Outils**: Docker, Kubernetes, Helm, Terraform
+  * **Plateforms**: AWS, GCP, Azure
+  * **Tools**: Docker, Kubernetes, Helm, Terraform
   
 - **Big Data & Data Engineering:**
   * **Hadoop Ecosystem**:  HDFS, MapReduce & Yarn, Apache Hive, HBase
@@ -47,7 +47,7 @@ I'm **Riyane (Purpose)**, a 21-year-old developer passionate about building inno
   * **Coordination**: Zookeeper
   
 - **Others**:
-  * **Serialisation**: Avro, Protobuf
+  * **Serialization**: Avro, Protobuf
   * **Communication**: gRPC, REST (API design & integration), GraphQL
   * **Version Control**: Git, Mercurial, SVN, Github, Gitlab, Atlassian 
 
